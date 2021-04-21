@@ -19,4 +19,4 @@ npm start
 npm run build
 ```
 
-![To-Do-App](./src/img/screenshot.png)
+![To-Do-App](./src/img/Screenshot.png)

@@ -18,3 +18,5 @@ npm start
 # Build app
 npm run build
 ```
+
+![To-Do-App](./src/img/screenshot.png)
